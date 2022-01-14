@@ -62,11 +62,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [GSMnet – Black Friday cu reduceri la infinit!](https://pustiul.ro/gsmnet-black-friday-cu-reduceri-la-infinit/)
+- [Primul program de educație rutieră pentru preșcolari ajunge în peste 180 de grădinițe din România](https://pustiul.ro/primul-program-de-educatie-rutiera-pentru-prescolari-ajunge-in-peste-180-de-gradinite-din-romania/)
+- [TOP cele mai populare locații de pe Instagram din Constanța](https://pustiul.ro/top-cele-mai-populare-locatii-de-pe-instagram-din-constanta/)
+- [Amenajează-ți terasa sau grădina!](https://pustiul.ro/amenajare-terasa-gradina/)
+- [Spotify în România](https://pustiul.ro/spotify-romania/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
