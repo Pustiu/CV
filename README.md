@@ -1,6 +1,6 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
 
-[![Website](https://img.shields.io/website?label=pustiul.ro&style=for-the-badge&url=https%3A%2F%pustiul.ro)](https://pustiul.ro)
+[![Website](https://img.shields.io/website?label=pustiul.ro&style=for-the-badge&url=https%3A%2F%2Fpustiul.ro)](https://pustiul.ro)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pustiu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPustiu&screen_name=Pustiu)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
