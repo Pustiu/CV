@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: Top Paying Tech Jobs in 2022, Visual Studio Code 2022, Code a 2D Game](https://www.youtube.com/watch?v=fnvYfRcfRIU)
-- [10 Life-Saving JavaScript One-Liners 🔥 CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=tfdD9y6AMiE)
-- [How To List &amp; Reveal An ENTIRE NFT Collection &lpar;10,000+&rpar; Without Coding Knowledge on OpenSea](https://www.youtube.com/watch?v=Iy1n_LxUwZs)
-- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
-- [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
+- [Nori pe viteza](https://www.youtube.com/watch?v=o3Si1gv7cSc)
+- [Din traficul constantean #3 - www.pustiul.ro](https://www.youtube.com/watch?v=E7jbIjfjYWQ)
+- [Cum sa ajuti la inchiderea Antenelor? www.pustiul.ro](https://www.youtube.com/watch?v=w3OUxDvLHfo)
+- [Autogara Sud Constanta](https://www.youtube.com/watch?v=rhJcq5Mcs0w)
+- [Din traficul constantean #2 - www.pustiul.ro](https://www.youtube.com/watch?v=1SAJHjEt_Ew)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
