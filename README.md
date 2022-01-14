@@ -69,7 +69,7 @@
 - [Spotify în România](https://pustiul.ro/spotify-romania/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://pustiul.ro)
 
 ---
 
