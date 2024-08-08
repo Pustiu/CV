@@ -1,4 +1,4 @@
-### Hi there, Florin [website] 👋 
+### Hi there, Florin 👋 
 
 ### Connect with me:
 
